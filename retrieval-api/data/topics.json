@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Python", "category": "Programming" },
+  { "id": 2, "name": "Docker", "category": "DevOps" },
+  { "id": 3, "name": "GraphQL", "category": "API" },
+  { "id": 4, "name": "MongoDB", "category": "Database" },
+  { "id": 5, "name": "Kubernetes", "category": "Cloud" },
+  { "id": 6, "name": "CI/CD", "category": "DevOps" },
+  { "id": 7, "name": "TypeScript", "category": "Programming" },
+  { "id": 8, "name": "RESTful APIs", "category": "API" }
+]
+
+
